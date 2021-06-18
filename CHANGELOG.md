@@ -1,5 +1,34 @@
 # Changelog
 
+## [1.4.0](https://www.github.com/Teletha/stoneforge/compare/v1.3.0...v1.4.0) (2021-06-18)
+
+
+### Features
+
+* Accepts repository infomation. ([24d19c2](https://www.github.com/Teletha/stoneforge/commit/24d19c252e9f1f11a7044cfe6f6fccd9d84c1780))
+* Add custom select element. ([537457d](https://www.github.com/Teletha/stoneforge/commit/537457da3a75e78d0618960653ea1dae0478a646))
+* Add navigation icon. ([27dff44](https://www.github.com/Teletha/stoneforge/commit/27dff4434e25358a808b119213d784ca5d5f87b6))
+* Add the ultra lightning fast viewer. (FlashMan) ([4cff4b1](https://www.github.com/Teletha/stoneforge/commit/4cff4b1a106ec9705b7b2511e383f19656a56c95))
+* Build the minimum bundled highlight.js dynamically. ([e2d6029](https://www.github.com/Teletha/stoneforge/commit/e2d6029b274a4db6cdb807c8f66f6bd40d32b4a7))
+* Display last modified date. ([8dadf82](https://www.github.com/Teletha/stoneforge/commit/8dadf829d71f808f3ac813d4f1dd01d9ddee29e9))
+* Display version numner. ([8ea8f09](https://www.github.com/Teletha/stoneforge/commit/8ea8f098c41c83046fc612985c92448d2b738719))
+* Drop fontawesome. ([6fdd027](https://www.github.com/Teletha/stoneforge/commit/6fdd0270e46607331107c8523a5c2e7095cfba50))
+* Drop vue-select. ([2db7d02](https://www.github.com/Teletha/stoneforge/commit/2db7d02ee4d7bc5e7a9536fc928f59d24e98dfd5))
+* Drop vue. ([d759bae](https://www.github.com/Teletha/stoneforge/commit/d759baeb1dbe6bf7e8d15dbcc65d5f230419aa08))
+* Provide jQuery like utility. ([2beb88e](https://www.github.com/Teletha/stoneforge/commit/2beb88e7138d8606bc86e83546b3b4bd844db326))
+* Support dark mode. ([33c9be8](https://www.github.com/Teletha/stoneforge/commit/33c9be8f0f7dc6d8f248418c62434680d4ecd3d1))
+
+
+### Bug Fixes
+
+* Apply correct language name. ([b749ad4](https://www.github.com/Teletha/stoneforge/commit/b749ad4c43f69dd63f128839e0f7b4050645bff1))
+* Enhance dark mode. ([b4242c1](https://www.github.com/Teletha/stoneforge/commit/b4242c1e6a0b0fc8902908557b23c86211b96067))
+* Enhance Select UI. ([0100408](https://www.github.com/Teletha/stoneforge/commit/0100408e1a57a096c06c9a6f6d7ebd0792c0e86c))
+* Enhance style on dark mode. ([f10cf69](https://www.github.com/Teletha/stoneforge/commit/f10cf69c272799df52ea6b9f6961621ad0705a05))
+* Execute code highlighting lazily. ([6ec0242](https://www.github.com/Teletha/stoneforge/commit/6ec02426a54748cd373d1fd12ed37f5cf65000e2))
+* Make the type's icon color more readable. ([10819da](https://www.github.com/Teletha/stoneforge/commit/10819da11f699c7390c34dbb84fe893cbee172e4))
+* Tests. ([a85a95f](https://www.github.com/Teletha/stoneforge/commit/a85a95fbb8e0bb71597bc2d37a6a419284c6c7b8))
+
 ## [1.3.0](https://www.github.com/Teletha/stoneforge/compare/v1.2.0...v1.3.0) (2021-05-18)
 
 
